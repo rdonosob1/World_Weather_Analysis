@@ -5,4 +5,6 @@ The aim of this project is to improve the PlanMyTrip app using the weather descr
 In addition to that, in order to test the app, we’ll need to choose four different cities from the list of potential travel destinations and nearby hotels within the same country, creating a travel itinerary. 
 Finally, using the Google Maps Directions API, the result of this is to generate a travel route between the four cities and a marker layer map.
 The final result of this test is shown in the figure below.
+
+### Travel Map Markers
 ![image](https://github.com/rdonosob1/World_Weather_Analysis/blob/main/Vacation_Itinerary/WeatherPy_travel_map_markers.png)
